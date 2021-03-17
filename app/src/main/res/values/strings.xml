@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BWA Movie</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="memulai">Memulai</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_deskripsi">Lebih Mudah Untuk Mengetahui\nFilm yang Sedang Tampil</string>
+    <string name="pre_sale">Pre-Sale</string>
+    <string name="pre_sale_deskripsi">Tidak Perlu Khawatir Ketinggalan\nUpdate Film Terbaru</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_deskripsi">Gunakan E-Wallet untuk\nTransaksi Tiket Nonton</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="daftar_akun_baru">daftar akun baru</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="address">Email Address</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="photo">Photo</string>
+    <string name="selamat_datang">Selamat Datang\nFajarudin Salam</string>
+    <string name="simpan_dan_lanjutkan">Simpan Dan Lanjutkan</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="pilih_kursi">Pilih Kursi</string>
+    <string name="beli_tiket">Beli Tiket</string>
+    <string name="checkout">Checkout</string>
+    <string name="bayar_sekarang">Bayar Sekarang</string>
+    <string name="batalkan">Batalkan</string>
+    <string name="when">When</string>
+    <string name="date_and_time"><![CDATA[Date & Time]]></string>
+    <string name="cinema">Cinema</string>
+    <string name="items">Items</string>
+    <string name="total_harus_dibayar">Total Harus Dibayar</string>
+    <string name="e_wallet">E-Wallet</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="happy_watching">Happy Watching!</string>
+    <string name="happy_watching_deskripsi">Tiket telah berhasil dibeli dan\nselamat menikmati film</string>
+    <string name="lihat_tiket">Lihat Tiket</string>
+    <string name="home">Home</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="my_history">My History</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_up_saldo">Top Up Saldo</string>
+    <string name="top_up">Top Up</string>
+</resources>

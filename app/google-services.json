@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008829013002",
+    "firebase_url": "https://movieproject-82a79.firebaseio.com",
+    "project_id": "movieproject-82a79",
+    "storage_bucket": "movieproject-82a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008829013002:android:1edb54b42d625fa52fd3f3",
+        "android_client_info": {
+          "package_name": "com.bagicode.bwamovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008829013002-jt41oi9d0ijlgasvanv1gom1824s82ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bagicode.bwamov",
+            "certificate_hash": "008f11e23322c63e82a44cd488f6d068b20ab6d8"
+          }
+        },
+        {
+          "client_id": "934069914224-dq58d40n3i2g54lip8ekr10oor98l81p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOmGcv6iaGAwx4DrEG1Nls0YSM_Pfgreg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008829013002-jt41oi9d0ijlgasvanv1gom1824s82ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
